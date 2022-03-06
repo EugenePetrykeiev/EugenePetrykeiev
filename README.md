@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EugenePetrykeiev
-- 👀 I’m interested in OpenCV and computer vision technology
+- 👀 I’m interested in OpenCV and computer vision technology and embedded technologies
 - 🌱 I’m currently learning Python and C++ lanuages
 - 📫 How to reach me eugenepetrikeev@gmail.com
 
